@@ -2199,6 +2199,7 @@ input, select, textarea {
 
 			#banner header p {
 				color: #fff;
+				text-align:left;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
